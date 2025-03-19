@@ -47,7 +47,7 @@ This project predicts win probabilities for college basketball games using super
 5. Supervised Learning:
    -Use SLRegressionModel
 6. March Madness Bracket
-   -
+   -BracketSheet
 
 ## Requirements
 - Python 3.x
