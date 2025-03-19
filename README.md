@@ -42,10 +42,10 @@ This project predicts win probabilities for college basketball games using super
    - copy the "February Results I" sheet and paste "Values", then save as a .csv. This will be the file your unsupervised and supervised learning will read.
 
 4. Unsupervised Learning:
-   - I have a few of these working right now, but for now you can use trial 1 and trial 2 to see different things. Have not organized it yet whatsoever, so bare with me
+   -Use USLM
      
 5. Supervised Learning:
-   - Pretty straight forward, I recommend leaving the features I have in there as they are. I welcome you to mess with how many you include to just play around with it to see what happens. Again, just make sure your file path is correct to get this to work. Planning on adding shop plots and matrix to see more stuff.
+   -Use SLMRegression
 
 ## Requirements
 - Python 3.x
