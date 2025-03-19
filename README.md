@@ -42,10 +42,12 @@ This project predicts win probabilities for college basketball games using super
    - copy the "February Results I" sheet and paste "Values", then save as a .csv. This will be the file your unsupervised and supervised learning will read.
 
 4. Unsupervised Learning:
-   -Use USLM
+   -Use ProjectUSLM
      
 5. Supervised Learning:
-   -Use SLMRegression
+   -Use SLRegressionModel
+6. March Madness Bracket
+   -
 
 ## Requirements
 - Python 3.x
